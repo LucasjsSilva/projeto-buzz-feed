@@ -48,6 +48,7 @@
   padding: 1rem 1.938rem;
   text-decoration: none;
   text-shadow: 0px 1px 0px #2F6627;
+  margin-bottom: 2rem;
 }
 
 .btn-option:hover{
@@ -65,6 +66,10 @@
   background-color: #210239;
   border-radius: 0.625rem;
   padding: 1.875rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 
